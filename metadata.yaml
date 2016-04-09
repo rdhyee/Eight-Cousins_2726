@@ -1,0 +1,49 @@
+_repo: Eight-Cousins_2726
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: "Eight Cousins, or The Aunt-Hill was published in 1875 by American novelist\
+  \ Louisa May Alcott. It is the story of Rose Campbell, a lonely and sickly girl\
+  \ who has been recently orphaned and must now reside with her maiden great aunts,\
+  \ the matriarchs of her wealthy Boston family. When Rose's guardian, Uncle Alec,\
+  \ returns from abroad, he takes over her care. Through his unorthodox theories about\
+  \ child-rearing, she becomes happier and healthier while finding her place in her\
+  \ family of seven boy cousins and numerous aunts and uncles. She also makes friends\
+  \ with Phebe, her aunts' young housemaid, whose cheerful attitude in the face of\
+  \ poverty helps Rose to understand and value her own good fortune.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2726'
+  wikidata: Q3281243
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Family life -- Juvenile fiction'
+- GITenberg
+title: Eight Cousins
+url: http://www.gutenberg.org/ebooks/2726
+wikipedia:
+- https://simple.wikipedia.org/wiki/Eight_Cousins
+- https://fi.wikipedia.org/wiki/Kahdeksan_serkusta
+- https://en.wikipedia.org/wiki/Eight_Cousins
+- https://it.wikipedia.org/wiki/Gli_otto_cugini
+- https://pt.wikipedia.org/wiki/Eight_Cousins
